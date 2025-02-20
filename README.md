@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+<a href="https://app.daily.dev/mrdavid123"><img src="https://api.daily.dev/devcards/v2/rK6trk9VqKynn0R4w5wCQ.png?r=lk2&type=default" width="356" alt="Arvin's Dev Card"/></a>
 <!--
 **arvin-bit/arvin-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
